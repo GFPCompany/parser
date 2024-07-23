@@ -1,0 +1,5 @@
+API_ID = 0
+API_HASH = 'HASH'
+SESSION_NAME = 'session'
+PHONE_NUMBER = 'NUMBER'
+SOURCES = ['TaxiRadarBot']
